@@ -1,0 +1,313 @@
+% Gender Identity
+% rftbk
+% 2016-03-20
+
+# Terminology
+
+The following terminology explains the way I perceive the world at the
+time of this writing.  It should help in understanding the rest of the
+text:
+
+- Sex: whether a mammal is female or male in terms of reproductive
+  function.
+
+- Female, male: See sex.
+
+- Patriarchy: a large and varied set of social institutions (cultural,
+  legal, economic, ...) that altogether serve to provide power and
+  privilege to male people, while exploiting female people.
+
+- Sexism/misogyny: a set of patriarchal belief systems --and the act
+  of proliferating these-- which serve to convince people that males
+  are physically and metaphysically superior to females, thus
+  justifying patriarchy.
+
+- Gender: the socially constructed identities of boyhood/manhood, and
+  girlhood/womanhood, in terms of expected personality traits,
+  mannerisms, attire, and so on.  A big part of sexism.  (I might say
+  "the male/female gender" so as not to constantly have to use both
+  the child and adult variants of the words; this is merely an
+  abbreviation and not meant to conflate sex and gender.)
+
+- Masculine/masculinity, feminine/femininity: that which is perceived
+  as being proper for the male and female genders, respectively.
+  I.e. the concrete characteristics associated with each identity,
+  isolated from the identity itself.  (To say "the girl is a boy" is a
+  contradiction since these are exclusive categories, but one can say
+  "the girl is masculine" to speak of a deviancy, in terms of gender.)
+
+- Girl/woman, boy/man: A child/adult female, and child/adult male,
+  respectively, who by virtue of their sex are expected to conform to
+  the corresponding gender; otherwise their existence is a threat to
+  patriarchy.
+
+- Gender abolitionism: the idea that the concept of gender should be
+  rendered irrelevant in society, and that girls, women, boys, and men
+  should therefore not be expected to have certain personality traits,
+  attire, etc. anymore, thus undermining one of the biggest pillars of
+  patriarchy.  (One could say this means it becomes acceptable for a
+  man to be feminine and vice versa, although the concepts of
+  "feminine" and "masculine" would fade into obscurity over time
+  anyway, just like, say, "miscegenation".)
+
+You can try to change my mind about these definitions, but don't
+expect to be very successful.  I hope these are uncontroversial
+definitions for someone with an understanding of feminism anyway.
+
+*Note: if you think "what about intersex people", head here: [Intersex
+People and Gender](intersex.html)*
+
+Also, in the context of discussion on trans issues, I use the
+following definitions, which I believe are also uncontroversial,
+though I'm not very attached to these personally:
+
+- Sex dysphoria: the distress a person feels over their anatomical sex
+  and the desire they feel towards having the other sex's anatomy.
+
+- Gender dysphoria: the distress a person feels over having to conform
+  to the gender corresponding with their sex, and the desire they feel
+  towards behaving, dressing, etc. in ways associated with the other
+  gender.
+
+
+# Gender identity
+
+Now comes the more difficult part.  The clash of gender identity
+politics and feminism.
+
+First of all, a brief summary of how I view trans people...
+
+My hypothesis so far is that sex and gender dysphoria are probably
+rooted in deeply absorbed gender stereotypes, and that therefore
+gender abolitionism might solve these issues.  Transitioning is an
+emergency solution to an emergency situation and should be offered to
+people experiencing dysphoria, and if there continue to be people with
+dysphoria in a gender abolished society, so be it, we can offer the
+choice to transition indefinitely.  I have no problem with it, and
+accept e.g. a trans woman as being socially a woman for day to day
+purposes, even though she is biologically a man/male.  I'm against
+male violence of all forms, including against trans people.
+
+You would expect that these are considered fairly sensible views, but
+sadly some aspects of them are perceived as being bigoted.
+
+Gender identity politics would have it that a transgender woman is
+truly a woman, i.e. female.  It asks for a different definition of sex
+that relies not on reproductive function, but on another immutable
+quality of a person, such as an aspect of their brain/neurology.  This
+way a woman can have a male anatomy, which she might or might not want
+to change.  Gender identity politics suggests that if society were to
+accept this notion, it would solve all the problems transgender people
+have for being transgender.
+
+Dissent with this narrative is seen as bigotry, literally.  Saying
+that transgenderism is defined by dysphoria rather than by being
+literally female/male in a male/female body is not allowed.
+
+There are many issues with this.
+
+
+## Neurosexism
+
+Accepting the notion of a sex dimorphic brain has the danger of
+supporting the idea that gender is natural rather than sexist.  That
+females and males are drawn to femininity and masculinity because of
+their nature.
+
+People have told me that this isn't necessarily the case; that a trans
+woman might be drawn to feminine things because other women indulge in
+feminine things.  So the trans woman has a connection to women that is
+deeper than femininity, and she, along with other women, would stop
+partaking in femininity if gender were to be abolished.  Through this
+line of thinking, we avoid implying that "female brains" are actually
+drawn to femininity by their nature.
+
+This leaves the question what exactly this deeper connection is, that
+trans women have with women, and where it comes from.  If a trans
+woman shares neither the anatomy nor any innate preferences of women,
+then what does she share with them?  How does she ever come to realize
+that her brain is female like that of other women, if there are no
+behavioral markers of a female brain?
+
+I can see one invoking sex dysphoria here, i.e. the distress one feels
+over their sexual anatomy and the desire they feel for having the
+other sex's anatomy.  One could suggest that women have a female brain
+because they feel fine over their female anatomy and would presumably
+feel sex dysphoria if they had male anatomy; and that trans women have
+a female brain because they feel sex dysphoria in their male body and
+would not feel it in a female body.  Sadly, this seems unfalsifiable.
+(We would need to put a woman's brain in a male body and see if she
+experiences sex dysphoria...)  It also leaves open all the other
+issues I will touch upon.
+
+*Very late addition: also, to try to define "true transgenderism" such
+as by deferring to the occurrence of sex dysphoria in an individual is
+badly discouraged and may get one labeled "truscum".  One is supposed
+to accept all claims to transgenderism, even if an individual states
+that they feel no sex dysphoria and do not show any desire to change
+the sexed parts of their anatomy.*
+
+
+## Distorting the boundaries of women-only political groups
+
+If women-only political groups were to draw a clear line in what
+people to accept, based on a shared experience of oppression, then
+reproductive sex seems like a good choice.  According to gender
+identity politics, this is literally bigotry.
+
+Women suffer under patriarchy because they are identified as female.
+No matter how female a male-bodied person is in their brain, it does
+not erase their male privilege, and no matter how male a female-bodied
+person is in their brain, it does not give them male privilege.
+
+Males with sex and/or gender dysphoria suffer under patriarchy as a
+group of people, but in a different way than how females suffer.
+Females with sex and/or gender dysphoria perhaps suffer the greatest,
+since on one hand they are identified as female and receive the
+corresponding treatment, and on the other hand they have their
+dysphoria to deal with.
+
+Gender identity politics would want us to see males with sex/gender
+dysphoria as simply women, and females with sex/gender dysphoria as
+simply men.  Correspondingly, women-only feminist groups would accept
+trans women, and perhaps exclude trans men.  This makes little sense
+when trans men experience more oppression in common with women than
+trans women do.
+
+Trans women in advanced stages of transitioning may experience *some*
+of the same issues female-born women do, such as sexual harassment,
+and workplace discrimination.  A women-only feminist group might or
+might not accept some trans women based on this partial shared
+experience.  In my opinion, it would be a failure in one's feminism
+not to let female-born people make the decision on this.
+
+
+## Hijacking feminist agenda
+
+The uncritical acceptance of the mantra "trans women are women"
+naturally leads to demands of feminism to give trans issues a high
+place in their agenda, since trans women are then perceived as one of
+the most badly suffering group of women.
+
+However, as explained in the last point, trans women and women have
+quite different experiences under patriarchy, and as explained in the
+fore-last point, women have good reason not to accept trans women as
+truly women.  Once we see trans women as *males* with sex/gender
+dysphoria, does it still make sense to say that feminism should
+allocate a lot of its resources to them?  To me, it seems as absurd as
+to say that feminism should allocate resources to Syrian refugees, or
+cancer patients.
+
+Insofar trans women have shared goals with women, such as fighting
+male violence, lots of cooperation can happen.  But demanding
+resources to be allocated to trans woman-*specific* issues, when they
+are really males with sex/gender dysphoria, and when feminism doesn't
+exactly have an abundance of resources, seems absurd.  Allocating
+resources to issues specific to trans women, such as access to health
+care for transitioning, furthers none of the goals of feminism, such
+as fighting patriarchy, or improving the living conditions of women
+under patriarchy for the time being.
+
+
+## Failing to address male violence against transsexuals
+
+One of the biggest talking points of gender identity politics is that
+trans women are receiving a vicious amount of violence, often fatal,
+and that therefore they are in urgent need of support, and any dissent
+is seen as utterly irrational and as being complicit in the violence.
+
+This is rather strange, given that women accepting trans women as
+women is unlikely to magically stop violent men from attacking trans
+women.
+
+Violent men attack non-passing trans women out of homophobia and/or
+the punishment they think men deserve if they don't conform to their
+assigned gender.  Women/feminists accepting trans women as women will
+do nothing at all in changing these men's minds about whether
+non-passing trans women are or aren't women, since these are already
+men with the most primitive and backwards beliefs and behavior a man
+can possibly have.
+
+For passing trans women, the way society thinks of trans women makes
+no difference anyway, since they are not identified as trans women.
+
+Trans women can cooperate with women to fight male violence, but I
+don't see how seeing trans women as true women is a prerequisite to
+this.  It seems like a distraction that only hinders the cooperation.
+
+
+## Failing to protect women from male violence
+
+It is very sad that this probably contributes to the social stigma on
+non-passing transsexual women, i.e. some form of serious transphobia,
+but one cannot simply ignore the problem of sexually deranged men who
+claim to be transgender women.
+
+I don't know yet how common this is exactly, but some women have
+created fairly large collections of examples of self-proclaimed
+transgender women behaving in sexually predatory and/or physically
+violent ways, before and/or after transitioning.
+
+This topic needs addressing, in *some* way.  Usually it's dismissed as
+being equivalent to promoting right-wing bigotry and fear mongering,
+which does not exactly help to reduce the anger of the women who are
+rightfully concerned over this issue.
+
+(On a side-note, "you sound like a conservative" is a very old and
+tired anti-feminist tactic.  Feminism has clashes with male-centered
+left-wing politics and that is not a secret.)
+
+
+## Calling penis-exclusionary lesbianism bigoted
+
+(AKA the "cotton ceiling".)
+
+I'm not sure if a person's sexual orientation includes attraction to a
+certain type of genitalia, or whether it's mostly about the whole body
+at large.  For me personally, it's about the body at large; a passing
+and good-looking trans woman can easily attract me, and male genitalia
+alone do not serve as a turn-off or trigger a homophobic response.
+The prevalence of "shemale" pornography suggests that this is a larger
+phenomenon; that heterosexual males in general don't have a problem
+with male genitalia per se.
+
+However, I don't know whether this can truly be generalized among
+males, and whether it carries on to females at all, specifically
+lesbian women.
+
+But leaving aside the (biological) nature of sexual orientations, it
+is perfectly legitimate for a woman to consciously refuse to come
+close to male genitalia.  (See also political lesbianism.)  Some women
+might even have a phobic response to male genitalia.  This is because
+they often serve as a symbol of male power, which can be consciously
+or subconsciously deeply repulsive for a woman.
+
+Saying that lesbian women are being bigoted by categorically refusing
+to consider penised trans women as sex partners shows an utter
+ignorance and/or insensitivity towards the problem of male supremacy
+and its role in sexuality.
+
+*Erratum: As it has been pointed out to me: in fact, no lesbian has to
+consider any trans woman as a sex partner, regardless of whether they
+do or don't have a penis, full stop.  Reasons may vary, and you should
+refer to lesbians themselves to get their authentic opinion.  I would
+reason that the bottom line lies in that trans women are not, after
+all, simply female individuals.*
+
+
+## Bullying women for cherishing their sex
+
+I'm not sure how often this happens, but it does, and one time is one
+time too many.
+
+Women cherishing their anatomy or physiology, such as vulvae, uteri,
+pregnancy, motherhood, etc., is occasionally called cissexist and
+erasing of trans women.
+
+Like many anti-woman ideas of gender identity politics, this is based
+on the presumption that trans women are truly a type of woman, and
+that the refusal to accept this notion supports their oppression and
+indirectly the violence that is committed against them.
+
+
+### Tell me if I missed anything.
