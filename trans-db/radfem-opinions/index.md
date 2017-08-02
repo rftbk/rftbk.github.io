@@ -23,3 +23,4 @@ demographic's opinions it represents.
 
 - [The source of male violence](male-violence-reason.html)
 - [Passing MtF using the women's room](passing-tw-using-bathroom.html)
+- [How many trans-critical women are radfems?](radfem-id.html)
